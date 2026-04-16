@@ -38,6 +38,9 @@ Link - https://www.linkedin.com/posts/katebour_dont-ask-how-can-i-survive-all-th
 
 ### 4. April Dunford
 - Profile: https://www.linkedin.com/in/aprildunford/
+  
+## Post 1: Positioning is Everything
+Link - https://www.linkedin.com/posts/aprildunford_positioning-is-the-most-important-marketing-activity-activity
 
 ### 5. Harry Dry
 - Profile: https://www.linkedin.com/in/harry-dry/
