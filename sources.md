@@ -48,9 +48,11 @@ Link - https://www.linkedin.com/posts/katebour_dont-ask-how-can-i-survive-all-th
 ## Post 1: Pricing is a Growth Lever
 Link - https://www.linkedin.com/posts/kylepoyar_pricing-strategy-growth-activity
 
-
 ### 7. Lenny Rachitsky
 - Profile: https://www.linkedin.com/in/lennyrachitsky/
+  
+## Post 1: Retention Drives Growth
+Link - https://www.linkedin.com/posts/lennyrachitsky_retention-is-everything-activity
 
 ### 8. Peep Laja
 - Profile: https://www.linkedin.com/in/peeplaja/
