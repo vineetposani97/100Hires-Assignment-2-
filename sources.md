@@ -41,6 +41,9 @@ Link - https://www.linkedin.com/posts/sahilbloom_your-love-of-learning-might-be-
 
 ### 10. Rand Fishkin
 - Profile: https://www.linkedin.com/in/randfishkin/
+  
+## Post 1: SEO is Changing
+Link - https://www.linkedin.com/posts/randfishkin_seo-is-evolving-activity
 
 ---
 
