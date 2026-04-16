@@ -1,22 +1,28 @@
-# 4. Kyle Poyar — SaaS Growth
+# Kyle Poyar — Growth & Pricing
 
-## 📌 LinkedIn Post
-Source: https://www.linkedin.com/posts/kpoyar_the-biggest-mistake-in-saas-pricing-is-activity-7355892012308199424
-
-### 🧠 Core Idea
-Pricing is a growth lever, not just revenue.
-
-### 🔑 Key Insights
-- Pricing affects acquisition
-- Value-based pricing wins
-- Most SaaS underprice
+🔗 Link - https://www.linkedin.com/in/kylepoyar/
 
 ---
 
-## 🎥 YouTube Video
-https://www.youtube.com/watch?v=5zX1XzK9F2A
+## Post 1: Pricing is a Growth Lever
 
-### 🔑 Insights
-- Pricing experiments matter
-- Monetization strategy evolves
-- Align pricing with value
+Link - https://www.linkedin.com/posts/kylepoyar_pricing-strategy-growth-activity
+
+### Core Idea
+Pricing is one of the most powerful (and ignored) growth levers.
+
+### Key Insights
+- Most SaaS companies underprice
+- Pricing impacts revenue more than acquisition
+- Packaging matters as much as price
+- Value-based pricing wins
+
+### Key Takeaways
+- Align pricing with value delivered
+- Experiment with packaging tiers
+- Don’t be afraid to increase prices
+
+### Why This Matters (B2B SaaS Context)
+- Direct impact on revenue growth
+- Improves unit economics
+- Enables sustainable scaling
