@@ -30,6 +30,10 @@ Link - https://www.linkedin.com/posts/sahilbloom_your-love-of-learning-might-be-
 ### 6. Kyle Poyar
 - Profile: https://www.linkedin.com/in/kylepoyar/
 
+## Post 1: Pricing is a Growth Lever
+Link - https://www.linkedin.com/posts/kylepoyar_pricing-strategy-growth-activity
+
+
 ### 7. Lenny Rachitsky
 - Profile: https://www.linkedin.com/in/lennyrachitsky/
 
