@@ -66,6 +66,9 @@ Link - https://www.linkedin.com/posts/peeplaja_conversion-optimization-activity
 ### 9. Ali Abdaal
 - Profile: https://www.linkedin.com/in/aliabdaal/
 
+## Post 1: Content is Leverage
+Link - https://www.linkedin.com/posts/aliabdaal_content-creation-leverage-activity
+
 ### 10. Rand Fishkin
 - Profile: https://www.linkedin.com/in/randfishkin/
   
@@ -84,9 +87,6 @@ Link - https://www.linkedin.com/posts/randfishkin_seo-is-evolving-activity
 
 ### Ali Abdaal
 - https://www.youtube.com/watch?v=Z2N5a7XZWg8
-  
-## Post 1: Content is Leverage
-Link - https://www.linkedin.com/posts/aliabdaal_content-creation-leverage-activity
 
 ### Katelyn Bourgoin
 - https://www.youtube.com/watch?v=3XQXxgQz5yY
