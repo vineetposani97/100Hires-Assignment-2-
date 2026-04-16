@@ -1,22 +1,28 @@
-# 2. April Dunford — Positioning
+# April Dunford — Positioning & Product Marketing
 
-## 📌 LinkedIn Post
-Source: https://www.linkedin.com/posts/aprildunford_positioning-is-not-about-what-you-say-activity-7313872148920193024
-
-### 🧠 Core Idea
-Positioning is about context, not messaging.
-
-### 🔑 Key Insights
-- Customers compare you to alternatives
-- Category defines perception
-- Clear positioning = faster sales
+🔗 Link - https://www.linkedin.com/in/aprildunford/
 
 ---
 
-## 🎥 YouTube Video
-https://www.youtube.com/watch?v=Q4Gv3R8cK5M
+## Post 1: Positioning is Everything
 
-### 🔑 Insights
-- Positioning drives demand
-- Wrong positioning = no traction
-- Messaging comes AFTER positioning
+Link - https://www.linkedin.com/posts/aprildunford_positioning-is-the-most-important-marketing-activity-activity
+
+### Core Idea
+Great products fail without clear positioning — customers need context to understand value.
+
+### Key Insights
+- Customers don’t evaluate products objectively — they compare
+- Positioning defines how your product is perceived
+- Weak positioning = confusion = lost sales
+- Category creation can be a strategic advantage
+
+### Key Takeaways
+- Always define your category clearly
+- Communicate differentiation simply
+- Focus on customer context, not product features
+
+### Why This Matters (B2B SaaS Context)
+- Clear positioning improves conversion rates
+- Helps sales teams communicate value better
+- Reduces customer confusion and churn
