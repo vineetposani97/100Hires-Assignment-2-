@@ -1,24 +1,28 @@
-# 6. Rand Fishkin — SEO & Audience
+# Rand Fishkin — SEO & Marketing
 
-## 📌 LinkedIn Post
-Source: https://www.linkedin.com/posts/randfishkin_google-is-not-your-friend-activity-7319982341231237120
-
-### 🧠 Core Idea
-Don’t depend on platforms you don’t control.
-
-### 🔑 Key Insights
-- Platforms change rules
-- Own your audience
-- Diversify channels
+🔗 Link - https://www.linkedin.com/in/randfishkin/
 
 ---
 
-## 🎥 YouTube Video
-https://www.youtube.com/watch?v=6JgF8k5L9XQ
+## Post 1: SEO is Changing
 
-### 🔑 Insights
-- SEO is evolving
+Link - https://www.linkedin.com/posts/randfishkin_seo-is-evolving-activity
+
+### Core Idea
+Traditional SEO is evolving due to platforms and user behavior.
+
+### Key Insights
+- Google is no longer the only discovery channel
+- Zero-click searches are increasing
 - Brand matters more than ever
-- Direct audience > rented traffic
+- Diversification is key
 
----
+### Key Takeaways
+- Invest in brand building
+- Don’t rely only on SEO
+- Explore multiple acquisition channels
+
+### Why This Matters (B2B SaaS Context)
+- Reduces dependency on search traffic
+- Encourages multi-channel growth
+- Future-proofs marketing strategy
