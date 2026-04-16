@@ -1,22 +1,28 @@
-# 5. Harry Dry — Copywriting
+# Harry Dry — Marketing & Copywriting
 
-## 📌 LinkedIn Post
-Source: https://www.linkedin.com/posts/harry-dry_good-copy-isnt-about-being-clever-activity-7321173848291239936
-
-### 🧠 Core Idea
-Good copy is clarity, not cleverness.
-
-### 🔑 Key Insights
-- Clear beats creative
-- Specificity builds trust
-- Simple language wins
+🔗 Link - https://www.linkedin.com/in/harry-dry/
 
 ---
 
-## 🎥 YouTube Video
-https://www.youtube.com/watch?v=KZ8d9sYHn2g
+## Post 1: Great Copy is Simple
 
-### 🔑 Insights
-- Write how people talk
-- Focus on outcomes
-- Cut fluff
+Link - https://www.linkedin.com/posts/harry-dry_simple-copy-is-effective-activity
+
+### Core Idea
+Simple writing beats clever writing in marketing.
+
+### Key Insights
+- Clarity > cleverness
+- People skim — not read deeply
+- Strong hooks drive engagement
+- Formatting improves readability
+
+### Key Takeaways
+- Use short sentences
+- Write like you speak
+- Focus on one idea per post
+
+### Why This Matters (B2B SaaS Context)
+- Improves engagement on LinkedIn
+- Makes messaging clearer
+- Increases conversion rates
