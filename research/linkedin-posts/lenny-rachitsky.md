@@ -1,22 +1,28 @@
-# 1. Lenny Rachitsky — Product & Growth
+# Lenny Rachitsky — Product & Growth
 
-## 📌 LinkedIn Post
-Source: https://www.linkedin.com/posts/lennyrachitsky_most-startups-fail-not-because-they-cant-activity-7346151565481848832
-
-### 🧠 Core Idea
-Startups fail due to poor distribution, not product.
-
-### 🔑 Key Insights
-- Distribution > product quality
-- Growth must be built early
-- Channels matter more than features
+🔗 Link - https://www.linkedin.com/in/lennyrachitsky/
 
 ---
 
-## 🎥 YouTube Video
-https://www.youtube.com/watch?v=9x0v9cWw9dQ
+## Post 1: Retention Drives Growth
 
-### 🔑 Insights
-- Product-market fit isn’t enough
-- Growth loops drive scale
-- Retention > acquisition
+Link - https://www.linkedin.com/posts/lennyrachitsky_retention-is-everything-activity
+
+### Core Idea
+Retention is the foundation of sustainable growth.
+
+### Key Insights
+- Acquisition is expensive — retention is leverage
+- Product-market fit = strong retention
+- Small improvements compound over time
+- Engagement drives retention
+
+### Key Takeaways
+- Focus on activation first
+- Measure retention cohorts
+- Improve core product experience
+
+### Why This Matters (B2B SaaS Context)
+- Reduces churn
+- Improves LTV
+- Makes growth predictable
