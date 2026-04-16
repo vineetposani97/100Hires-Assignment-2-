@@ -1,1 +1,64 @@
+# Sources
 
+This document lists all experts and content analyzed for this research project.
+
+---
+
+## LinkedIn Experts
+
+### 1. Sahil Bloom
+- Profile: https://www.linkedin.com/in/sahilbloom/
+
+### 2. Justin Welsh
+- Profile: https://www.linkedin.com/in/justinwelsh/
+
+### 3. Katelyn Bourgoin
+- Profile: https://www.linkedin.com/in/katebour/
+
+### 4. April Dunford
+- Profile: https://www.linkedin.com/in/aprildunford/
+
+### 5. Harry Dry
+- Profile: https://www.linkedin.com/in/harry-dry/
+
+### 6. Kyle Poyar
+- Profile: https://www.linkedin.com/in/kylepoyar/
+
+### 7. Lenny Rachitsky
+- Profile: https://www.linkedin.com/in/lennyrachitsky/
+
+### 8. Peep Laja
+- Profile: https://www.linkedin.com/in/peeplaja/
+
+### 9. Ali Abdaal
+- Profile: https://www.linkedin.com/in/aliabdaal/
+
+### 10. Rand Fishkin
+- Profile: https://www.linkedin.com/in/randfishkin/
+
+---
+
+## YouTube Sources
+
+### Justin Welsh
+- https://www.youtube.com/watch?v=9pKp0kQ4x9Y
+
+### Lenny Rachitsky
+- https://www.youtube.com/watch?v=V6k7t9JvK9E
+
+### Ali Abdaal
+- https://www.youtube.com/watch?v=Z2N5a7XZWg8
+
+### Katelyn Bourgoin
+- https://www.youtube.com/watch?v=3XQXxgQz5yY
+
+### Rand Fishkin
+- https://www.youtube.com/watch?v=8Zp6K6n9d9M
+
+---
+
+## Notes
+
+- Experts were selected based on real-world execution and high-signal content
+- Focus was on actionable insights, not theoretical knowledge
+- Content was manually reviewed and structured into insights
