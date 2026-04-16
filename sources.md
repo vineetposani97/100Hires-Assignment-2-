@@ -35,6 +35,9 @@ Link - https://www.linkedin.com/posts/sahilbloom_your-love-of-learning-might-be-
 
 ### 8. Peep Laja
 - Profile: https://www.linkedin.com/in/peeplaja/
+  
+## Post 1: Conversion is About Clarity
+Link - https://www.linkedin.com/posts/peeplaja_conversion-optimization-activity
 
 ### 9. Ali Abdaal
 - Profile: https://www.linkedin.com/in/aliabdaal/
