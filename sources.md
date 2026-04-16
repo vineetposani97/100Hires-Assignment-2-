@@ -21,6 +21,9 @@ Link - https://www.linkedin.com/posts/sahilbloom_your-love-of-learning-might-be-
 ## Post 1: Business is simpler than you think
 Link - https://www.linkedin.com/posts/justinwelsh_youre-overcomplicating-business-trust-activity-7434082901404762112-Uhgb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCd18UBZhw_DC1Kh6aT2qHRjLe9bqO1Ej4
 
+## Post 2: The real entrepreneurial journey
+Link - https://www.linkedin.com/posts/justinwelsh_you-cant-sprint-to-entrepreneurial-success-activity-7433855654320095232-e23k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCd18UBZhw_DC1Kh6aT2qHRjLe9bqO1Ej4
+
 
 ### 3. Katelyn Bourgoin
 - Profile: https://www.linkedin.com/in/katebour/
