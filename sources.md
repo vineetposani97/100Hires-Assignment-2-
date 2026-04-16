@@ -24,6 +24,8 @@ Link - https://www.linkedin.com/posts/justinwelsh_youre-overcomplicating-busines
 ## Post 2: The real entrepreneurial journey
 Link - https://www.linkedin.com/posts/justinwelsh_you-cant-sprint-to-entrepreneurial-success-activity-7433855654320095232-e23k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCd18UBZhw_DC1Kh6aT2qHRjLe9bqO1Ej4
 
+## Post 3: Luck comes from effort
+Link - https://www.linkedin.com/feed/update/urn:li:activity:7440001153729441794?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7440001153729441794%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 ### 3. Katelyn Bourgoin
 - Profile: https://www.linkedin.com/in/katebour/
