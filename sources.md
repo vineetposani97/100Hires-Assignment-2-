@@ -45,6 +45,9 @@ Link - https://www.linkedin.com/posts/aprildunford_positioning-is-the-most-impor
 ### 5. Harry Dry
 - Profile: https://www.linkedin.com/in/harry-dry/
 
+## Post 1: Great Copy is Simple
+Link - https://www.linkedin.com/posts/harry-dry_simple-copy-is-effective-activity
+
 ### 6. Kyle Poyar
 - Profile: https://www.linkedin.com/in/kylepoyar/
 
