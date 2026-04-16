@@ -1,22 +1,28 @@
-# 3. Peep Laja — Conversion Optimization
+# Peep Laja — Conversion Optimization
 
-## 📌 LinkedIn Post
-Source: https://www.linkedin.com/posts/peep_laja_conversion-optimization-is-not-about-activity-7331198745649831936
-
-### 🧠 Core Idea
-Conversion isn’t about hacks — it’s about understanding users.
-
-### 🔑 Key Insights
-- Psychology > tactics
-- Messaging drives conversion
-- Data beats opinions
+🔗 Link - https://www.linkedin.com/in/peeplaja/
 
 ---
 
-## 🎥 YouTube Video
-https://www.youtube.com/watch?v=7y9X1kG5kG0
+## Post 1: Conversion is About Clarity
 
-### 🔑 Insights
-- Copy matters more than design
-- Clarity increases conversion
-- Test everything
+Link - https://www.linkedin.com/posts/peeplaja_conversion-optimization-activity
+
+### Core Idea
+Users convert when they clearly understand value.
+
+### Key Insights
+- Confusion kills conversions
+- Messaging matters more than design
+- Value proposition is critical
+- Testing beats opinions
+
+### Key Takeaways
+- Simplify messaging
+- Focus on user intent
+- Run experiments consistently
+
+### Why This Matters (B2B SaaS Context)
+- Improves funnel performance
+- Increases revenue without more traffic
+- Helps optimize landing pages
