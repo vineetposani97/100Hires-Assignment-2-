@@ -29,6 +29,9 @@ Link - https://www.linkedin.com/feed/update/urn:li:activity:7440001153729441794?
 
 ### 3. Katelyn Bourgoin
 - Profile: https://www.linkedin.com/in/katebour/
+  
+## Post 1: Ownable Idea Method
+Link - https://www.linkedin.com/posts/katebour_your-buyer-already-knows-what-they-want-activity-7437471497369161728-M_7n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCd18UBZhw_DC1Kh6aT2qHRjLe9bqO1Ej4
 
 ### 4. April Dunford
 - Profile: https://www.linkedin.com/in/aprildunford/
