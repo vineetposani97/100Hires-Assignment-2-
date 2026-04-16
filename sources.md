@@ -18,6 +18,10 @@ Link - https://www.linkedin.com/posts/sahilbloom_your-love-of-learning-might-be-
 ### 2. Justin Welsh
 - Profile: https://www.linkedin.com/in/justinwelsh/
 
+## Post 1: Business is simpler than you think
+Link - https://www.linkedin.com/posts/justinwelsh_youre-overcomplicating-business-trust-activity-7434082901404762112-Uhgb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCd18UBZhw_DC1Kh6aT2qHRjLe9bqO1Ej4
+
+
 ### 3. Katelyn Bourgoin
 - Profile: https://www.linkedin.com/in/katebour/
 
