@@ -8,8 +8,12 @@ This document lists all experts and content analyzed for this research project.
 
 ### 1. Sahil Bloom
 - Profile: https://www.linkedin.com/in/sahilbloom/
+  
 ## Post 1: Time is the Ultimate Wealth
 Link - https://www.linkedin.com/posts/sahilbloom_the-happiest-people-i-know-dont-optimize-activity-7379122938345721856-78DL
+
+## Post 2: Execution > Learning
+Link - https://www.linkedin.com/posts/sahilbloom_your-love-of-learning-might-be-holding-you-activity-7444352848840019970-GrVG
 
 ### 2. Justin Welsh
 - Profile: https://www.linkedin.com/in/justinwelsh/
